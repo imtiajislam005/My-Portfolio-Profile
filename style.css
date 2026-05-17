@@ -62,12 +62,11 @@ nav ul li a:hover{
 }
 .hero_dwon{
    display: inline-grid;
-   margin: 60px 200px 0px 0px;
+   margin: 60px 200px 0px 50px;
 }
 .btn{
     margin-top: 25px;
     display: flex;
-    flex-wrap: wrap;
     gap: 15px;
     
 }
